@@ -1,0 +1,47 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+
+}
+.main-container
+{
+	width: 100%;
+	height: 100%;
+}
+.navbar
+{
+	border-radius:0px;
+	height:60px;
+}
+.navbar-brand
+{
+	padding: 10px;
+}
+.navbar-brand .img-responsive
+{
+	height: 35px;
+}
+.right-brand
+{
+	margin-left: 70% ;
+	padding:1% ;
+}
+.right-brand .form-control
+{
+	border-radius: 20px;
+}
+.fa-search
+{
+	margin: -10% 0px 0px 75%;
+	position: absolute;
+	color: #969696;
+}
+
+
+	
+
+
